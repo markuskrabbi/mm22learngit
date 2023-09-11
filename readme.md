@@ -7,3 +7,5 @@ Helga
 Malle
 Peeter
 Kristjan
+Juss
+Õnne
